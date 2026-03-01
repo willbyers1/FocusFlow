@@ -24,7 +24,9 @@ To get a local copy up and running, follow these simple steps:
 
 ### 1. Clone the Repository
 Open your terminal and run the following command:
+
 ```bash
+
 git clone [https://github.com/your-username/FocusFlow.git](https://github.com/your-username/FocusFlow.git)
 2. Navigate to the Directory
 Bash
@@ -32,13 +34,26 @@ cd FocusFlow
 3. Run the Project
 You don't need a server! Simply open index.html in your favorite web browser:
 
+Bash
 # On macOS/Linux:
 open index.html
 
 # On Windows:
 start index.html
-📸 Preview
-(Optional: Add a screenshot of your app here)
+
+```
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
+
+
+<div align="center">
+
+    
+**Created by Mert Batu Bülbül**
+
+💻 Computer Engineering Freshman (1st Year Student) 💻
+
+</div>
+
+

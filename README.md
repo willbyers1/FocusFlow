@@ -24,7 +24,9 @@ To get a local copy up and running, follow these simple steps:
 
 ### 1. Clone the Repository
 Open your terminal and run the following command:
+
 ```bash
+
 git clone [https://github.com/your-username/FocusFlow.git](https://github.com/your-username/FocusFlow.git)
 2. Navigate to the Directory
 Bash
@@ -39,6 +41,7 @@ open index.html
 # On Windows:
 start index.html
 
+```
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
@@ -52,3 +55,4 @@ Distributed under the MIT License. See LICENSE for more information.
 💻 Computer Engineering Freshman (1st Year Student) 💻
 
 </div>
+

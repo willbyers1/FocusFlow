@@ -6,6 +6,7 @@ FocusFlow is a modern, responsive, and lightweight task management application d
 
 ## ✨ Key Features
 
+
 - **Dynamic Greeting:** Displays the current date and day in real-time.
 - **Data Persistence:** Uses `LocalStorage` to ensure your tasks are saved even after closing the browser.
 - **Sleek UI:** A professional dark-themed interface inspired by modern developer environments.
